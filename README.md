@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-![изображение](https://user-images.githubusercontent.com/38787950/162971067-06e7a204-7ebb-455d-91d1-fd2447133942.png)
+<img src="https://user-images.githubusercontent.com/38787950/162971322-e170478e-46da-4a43-b800-8c5489a5a0f5.png" width="48">
